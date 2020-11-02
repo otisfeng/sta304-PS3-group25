@@ -1,0 +1,1639 @@
+age,sex,race,n
+2,male,white,64
+2,male,black/african american/negro,13
+2,male,american indian or alaska native,2
+2,male,chinese,1
+2,male,japanese,1
+2,male,other asian or pacific islander,17
+2,male,"other race, nec",14
+2,male,two major races,13
+2,male,three or more major races,2
+2,female,white,67
+2,female,black/african american/negro,16
+2,female,chinese,6
+2,female,other asian or pacific islander,20
+2,female,"other race, nec",16
+2,female,two major races,18
+2,female,three or more major races,2
+3,male,white,115
+3,male,black/african american/negro,11
+3,male,american indian or alaska native,2
+3,male,chinese,9
+3,male,japanese,1
+3,male,other asian or pacific islander,16
+3,male,"other race, nec",5
+3,male,two major races,6
+3,male,three or more major races,6
+3,female,white,80
+3,female,black/african american/negro,19
+3,female,american indian or alaska native,1
+3,female,chinese,4
+3,female,other asian or pacific islander,28
+3,female,"other race, nec",17
+3,female,two major races,19
+3,female,three or more major races,1
+4,male,white,106
+4,male,black/african american/negro,24
+4,male,chinese,12
+4,male,japanese,1
+4,male,other asian or pacific islander,16
+4,male,"other race, nec",6
+4,male,two major races,18
+4,male,three or more major races,3
+4,female,white,87
+4,female,black/african american/negro,22
+4,female,chinese,12
+4,female,japanese,1
+4,female,other asian or pacific islander,29
+4,female,"other race, nec",23
+4,female,two major races,17
+4,female,three or more major races,1
+5,male,white,109
+5,male,black/african american/negro,28
+5,male,american indian or alaska native,1
+5,male,chinese,10
+5,male,japanese,2
+5,male,other asian or pacific islander,21
+5,male,"other race, nec",16
+5,male,two major races,19
+5,male,three or more major races,3
+5,female,white,103
+5,female,black/african american/negro,17
+5,female,chinese,10
+5,female,japanese,1
+5,female,other asian or pacific islander,29
+5,female,"other race, nec",22
+5,female,two major races,23
+5,female,three or more major races,5
+6,male,white,122
+6,male,black/african american/negro,30
+6,male,american indian or alaska native,4
+6,male,chinese,18
+6,male,other asian or pacific islander,37
+6,male,"other race, nec",24
+6,male,two major races,18
+6,male,three or more major races,5
+6,female,white,145
+6,female,black/african american/negro,29
+6,female,american indian or alaska native,3
+6,female,chinese,12
+6,female,japanese,2
+6,female,other asian or pacific islander,29
+6,female,"other race, nec",23
+6,female,two major races,20
+6,female,three or more major races,3
+7,male,white,125
+7,male,black/african american/negro,31
+7,male,american indian or alaska native,1
+7,male,chinese,22
+7,male,japanese,1
+7,male,other asian or pacific islander,37
+7,male,"other race, nec",20
+7,male,two major races,18
+7,male,three or more major races,3
+7,female,white,121
+7,female,black/african american/negro,37
+7,female,american indian or alaska native,1
+7,female,chinese,20
+7,female,other asian or pacific islander,43
+7,female,"other race, nec",15
+7,female,two major races,15
+7,female,three or more major races,6
+8,male,white,137
+8,male,black/african american/negro,40
+8,male,american indian or alaska native,3
+8,male,chinese,14
+8,male,other asian or pacific islander,53
+8,male,"other race, nec",24
+8,male,two major races,28
+8,male,three or more major races,5
+8,female,white,141
+8,female,black/african american/negro,39
+8,female,american indian or alaska native,2
+8,female,chinese,20
+8,female,japanese,2
+8,female,other asian or pacific islander,40
+8,female,"other race, nec",18
+8,female,two major races,26
+8,female,three or more major races,2
+9,male,white,147
+9,male,black/african american/negro,40
+9,male,american indian or alaska native,1
+9,male,chinese,13
+9,male,other asian or pacific islander,56
+9,male,"other race, nec",11
+9,male,two major races,29
+9,male,three or more major races,3
+9,female,white,126
+9,female,black/african american/negro,35
+9,female,chinese,26
+9,female,other asian or pacific islander,58
+9,female,"other race, nec",16
+9,female,two major races,16
+9,female,three or more major races,1
+10,male,white,154
+10,male,black/african american/negro,50
+10,male,american indian or alaska native,2
+10,male,chinese,20
+10,male,other asian or pacific islander,53
+10,male,"other race, nec",23
+10,male,two major races,31
+10,male,three or more major races,4
+10,female,white,131
+10,female,black/african american/negro,41
+10,female,chinese,24
+10,female,other asian or pacific islander,59
+10,female,"other race, nec",26
+10,female,two major races,21
+10,female,three or more major races,1
+11,male,white,156
+11,male,black/african american/negro,49
+11,male,american indian or alaska native,3
+11,male,chinese,15
+11,male,other asian or pacific islander,62
+11,male,"other race, nec",36
+11,male,two major races,33
+11,male,three or more major races,7
+11,female,white,164
+11,female,black/african american/negro,61
+11,female,american indian or alaska native,1
+11,female,chinese,38
+11,female,japanese,1
+11,female,other asian or pacific islander,52
+11,female,"other race, nec",29
+11,female,two major races,28
+11,female,three or more major races,5
+12,male,white,185
+12,male,black/african american/negro,54
+12,male,american indian or alaska native,5
+12,male,chinese,12
+12,male,japanese,1
+12,male,other asian or pacific islander,78
+12,male,"other race, nec",33
+12,male,two major races,30
+12,male,three or more major races,8
+12,female,white,169
+12,female,black/african american/negro,45
+12,female,american indian or alaska native,5
+12,female,chinese,44
+12,female,other asian or pacific islander,68
+12,female,"other race, nec",32
+12,female,two major races,35
+12,female,three or more major races,6
+13,male,white,223
+13,male,black/african american/negro,44
+13,male,american indian or alaska native,4
+13,male,chinese,9
+13,male,japanese,2
+13,male,other asian or pacific islander,89
+13,male,"other race, nec",46
+13,male,two major races,35
+13,female,white,192
+13,female,black/african american/negro,47
+13,female,american indian or alaska native,7
+13,female,chinese,69
+13,female,japanese,2
+13,female,other asian or pacific islander,79
+13,female,"other race, nec",41
+13,female,two major races,33
+13,female,three or more major races,5
+14,male,white,223
+14,male,black/african american/negro,60
+14,male,american indian or alaska native,9
+14,male,chinese,23
+14,male,japanese,3
+14,male,other asian or pacific islander,82
+14,male,"other race, nec",41
+14,male,two major races,28
+14,male,three or more major races,1
+14,female,white,184
+14,female,black/african american/negro,69
+14,female,american indian or alaska native,9
+14,female,chinese,88
+14,female,other asian or pacific islander,94
+14,female,"other race, nec",44
+14,female,two major races,42
+14,female,three or more major races,5
+15,male,white,231
+15,male,black/african american/negro,52
+15,male,american indian or alaska native,6
+15,male,chinese,20
+15,male,japanese,2
+15,male,other asian or pacific islander,110
+15,male,"other race, nec",39
+15,male,two major races,26
+15,male,three or more major races,3
+15,female,white,189
+15,female,black/african american/negro,62
+15,female,american indian or alaska native,5
+15,female,chinese,83
+15,female,japanese,1
+15,female,other asian or pacific islander,87
+15,female,"other race, nec",34
+15,female,two major races,36
+15,female,three or more major races,3
+16,male,white,263
+16,male,black/african american/negro,70
+16,male,american indian or alaska native,9
+16,male,chinese,28
+16,male,japanese,5
+16,male,other asian or pacific islander,119
+16,male,"other race, nec",47
+16,male,two major races,29
+16,male,three or more major races,3
+16,female,white,257
+16,female,black/african american/negro,66
+16,female,american indian or alaska native,4
+16,female,chinese,95
+16,female,japanese,1
+16,female,other asian or pacific islander,123
+16,female,"other race, nec",46
+16,female,two major races,34
+16,female,three or more major races,5
+17,male,white,281
+17,male,black/african american/negro,77
+17,male,american indian or alaska native,5
+17,male,chinese,33
+17,male,japanese,1
+17,male,other asian or pacific islander,112
+17,male,"other race, nec",51
+17,male,two major races,34
+17,male,three or more major races,4
+17,female,white,284
+17,female,black/african american/negro,58
+17,female,american indian or alaska native,3
+17,female,chinese,94
+17,female,other asian or pacific islander,108
+17,female,"other race, nec",48
+17,female,two major races,33
+17,female,three or more major races,6
+18,male,white,298
+18,male,black/african american/negro,92
+18,male,american indian or alaska native,7
+18,male,chinese,24
+18,male,japanese,3
+18,male,other asian or pacific islander,146
+18,male,"other race, nec",52
+18,male,two major races,30
+18,male,three or more major races,4
+18,female,white,273
+18,female,black/african american/negro,85
+18,female,american indian or alaska native,4
+18,female,chinese,90
+18,female,japanese,1
+18,female,other asian or pacific islander,142
+18,female,"other race, nec",51
+18,female,two major races,39
+18,female,three or more major races,6
+19,male,white,351
+19,male,black/african american/negro,103
+19,male,american indian or alaska native,2
+19,male,chinese,30
+19,male,other asian or pacific islander,176
+19,male,"other race, nec",74
+19,male,two major races,40
+19,male,three or more major races,12
+19,female,white,331
+19,female,black/african american/negro,103
+19,female,american indian or alaska native,5
+19,female,chinese,80
+19,female,japanese,5
+19,female,other asian or pacific islander,153
+19,female,"other race, nec",59
+19,female,two major races,36
+19,female,three or more major races,7
+20,male,white,314
+20,male,black/african american/negro,105
+20,male,american indian or alaska native,2
+20,male,chinese,58
+20,male,japanese,1
+20,male,other asian or pacific islander,175
+20,male,"other race, nec",80
+20,male,two major races,35
+20,male,three or more major races,4
+20,female,white,355
+20,female,black/african american/negro,98
+20,female,american indian or alaska native,1
+20,female,chinese,84
+20,female,other asian or pacific islander,140
+20,female,"other race, nec",50
+20,female,two major races,36
+20,female,three or more major races,5
+21,male,white,362
+21,male,black/african american/negro,101
+21,male,american indian or alaska native,4
+21,male,chinese,42
+21,male,japanese,1
+21,male,other asian or pacific islander,187
+21,male,"other race, nec",81
+21,male,two major races,29
+21,male,three or more major races,3
+21,female,white,302
+21,female,black/african american/negro,107
+21,female,american indian or alaska native,7
+21,female,chinese,83
+21,female,japanese,2
+21,female,other asian or pacific islander,184
+21,female,"other race, nec",51
+21,female,two major races,28
+21,female,three or more major races,5
+22,male,white,337
+22,male,black/african american/negro,73
+22,male,american indian or alaska native,5
+22,male,chinese,49
+22,male,japanese,1
+22,male,other asian or pacific islander,178
+22,male,"other race, nec",71
+22,male,two major races,43
+22,male,three or more major races,5
+22,female,white,326
+22,female,black/african american/negro,91
+22,female,american indian or alaska native,5
+22,female,chinese,77
+22,female,japanese,2
+22,female,other asian or pacific islander,169
+22,female,"other race, nec",70
+22,female,two major races,40
+22,female,three or more major races,6
+23,male,white,357
+23,male,black/african american/negro,86
+23,male,american indian or alaska native,1
+23,male,chinese,48
+23,male,other asian or pacific islander,170
+23,male,"other race, nec",62
+23,male,two major races,24
+23,male,three or more major races,3
+23,female,white,380
+23,female,black/african american/negro,75
+23,female,american indian or alaska native,5
+23,female,chinese,68
+23,female,japanese,2
+23,female,other asian or pacific islander,160
+23,female,"other race, nec",71
+23,female,two major races,29
+23,female,three or more major races,2
+24,male,white,381
+24,male,black/african american/negro,82
+24,male,chinese,39
+24,male,japanese,3
+24,male,other asian or pacific islander,171
+24,male,"other race, nec",83
+24,male,two major races,38
+24,male,three or more major races,6
+24,female,white,355
+24,female,black/african american/negro,78
+24,female,american indian or alaska native,2
+24,female,chinese,72
+24,female,japanese,2
+24,female,other asian or pacific islander,178
+24,female,"other race, nec",65
+24,female,two major races,27
+24,female,three or more major races,7
+25,male,white,344
+25,male,black/african american/negro,71
+25,male,american indian or alaska native,6
+25,male,chinese,47
+25,male,japanese,2
+25,male,other asian or pacific islander,214
+25,male,"other race, nec",89
+25,male,two major races,36
+25,male,three or more major races,3
+25,female,white,392
+25,female,black/african american/negro,90
+25,female,american indian or alaska native,6
+25,female,chinese,59
+25,female,japanese,3
+25,female,other asian or pacific islander,170
+25,female,"other race, nec",80
+25,female,two major races,32
+25,female,three or more major races,4
+26,male,white,372
+26,male,black/african american/negro,100
+26,male,american indian or alaska native,5
+26,male,chinese,52
+26,male,other asian or pacific islander,209
+26,male,"other race, nec",89
+26,male,two major races,31
+26,male,three or more major races,7
+26,female,white,405
+26,female,black/african american/negro,106
+26,female,american indian or alaska native,3
+26,female,chinese,54
+26,female,japanese,2
+26,female,other asian or pacific islander,192
+26,female,"other race, nec",86
+26,female,two major races,43
+26,female,three or more major races,2
+27,male,white,453
+27,male,black/african american/negro,100
+27,male,american indian or alaska native,4
+27,male,chinese,63
+27,male,japanese,2
+27,male,other asian or pacific islander,198
+27,male,"other race, nec",90
+27,male,two major races,50
+27,male,three or more major races,8
+27,female,white,406
+27,female,black/african american/negro,113
+27,female,american indian or alaska native,3
+27,female,chinese,50
+27,female,japanese,2
+27,female,other asian or pacific islander,199
+27,female,"other race, nec",95
+27,female,two major races,45
+27,female,three or more major races,7
+28,male,white,460
+28,male,black/african american/negro,90
+28,male,american indian or alaska native,2
+28,male,chinese,80
+28,male,japanese,4
+28,male,other asian or pacific islander,229
+28,male,"other race, nec",103
+28,male,two major races,40
+28,male,three or more major races,3
+28,female,white,473
+28,female,black/african american/negro,118
+28,female,american indian or alaska native,5
+28,female,chinese,48
+28,female,japanese,1
+28,female,other asian or pacific islander,249
+28,female,"other race, nec",87
+28,female,two major races,42
+28,female,three or more major races,6
+29,male,white,492
+29,male,black/african american/negro,109
+29,male,american indian or alaska native,3
+29,male,chinese,70
+29,male,japanese,1
+29,male,other asian or pacific islander,228
+29,male,"other race, nec",100
+29,male,two major races,32
+29,male,three or more major races,4
+29,female,white,501
+29,female,black/african american/negro,132
+29,female,american indian or alaska native,7
+29,female,chinese,86
+29,female,other asian or pacific islander,221
+29,female,"other race, nec",93
+29,female,two major races,47
+29,female,three or more major races,6
+30,male,white,509
+30,male,black/african american/negro,122
+30,male,american indian or alaska native,6
+30,male,chinese,86
+30,male,japanese,4
+30,male,other asian or pacific islander,249
+30,male,"other race, nec",95
+30,male,two major races,44
+30,male,three or more major races,5
+30,female,white,546
+30,female,black/african american/negro,159
+30,female,american indian or alaska native,4
+30,female,chinese,91
+30,female,japanese,2
+30,female,other asian or pacific islander,291
+30,female,"other race, nec",99
+30,female,two major races,48
+30,female,three or more major races,5
+31,male,white,627
+31,male,black/african american/negro,117
+31,male,american indian or alaska native,4
+31,male,chinese,83
+31,male,japanese,3
+31,male,other asian or pacific islander,240
+31,male,"other race, nec",128
+31,male,two major races,48
+31,male,three or more major races,4
+31,female,white,651
+31,female,black/african american/negro,139
+31,female,american indian or alaska native,7
+31,female,chinese,92
+31,female,japanese,2
+31,female,other asian or pacific islander,292
+31,female,"other race, nec",148
+31,female,two major races,52
+31,female,three or more major races,6
+32,male,white,532
+32,male,black/african american/negro,112
+32,male,american indian or alaska native,5
+32,male,chinese,85
+32,male,japanese,3
+32,male,other asian or pacific islander,257
+32,male,"other race, nec",142
+32,male,two major races,54
+32,male,three or more major races,10
+32,female,white,630
+32,female,black/african american/negro,146
+32,female,american indian or alaska native,7
+32,female,chinese,91
+32,female,japanese,1
+32,female,other asian or pacific islander,301
+32,female,"other race, nec",118
+32,female,two major races,50
+32,female,three or more major races,5
+33,male,white,572
+33,male,black/african american/negro,147
+33,male,american indian or alaska native,9
+33,male,chinese,95
+33,male,japanese,5
+33,male,other asian or pacific islander,304
+33,male,"other race, nec",135
+33,male,two major races,47
+33,male,three or more major races,1
+33,female,white,610
+33,female,black/african american/negro,157
+33,female,american indian or alaska native,4
+33,female,chinese,92
+33,female,japanese,3
+33,female,other asian or pacific islander,323
+33,female,"other race, nec",139
+33,female,two major races,62
+33,female,three or more major races,6
+34,male,white,585
+34,male,black/african american/negro,148
+34,male,american indian or alaska native,6
+34,male,chinese,90
+34,male,japanese,2
+34,male,other asian or pacific islander,268
+34,male,"other race, nec",126
+34,male,two major races,48
+34,male,three or more major races,3
+34,female,white,618
+34,female,black/african american/negro,169
+34,female,american indian or alaska native,4
+34,female,chinese,92
+34,female,japanese,1
+34,female,other asian or pacific islander,380
+34,female,"other race, nec",142
+34,female,two major races,51
+34,female,three or more major races,5
+35,male,white,592
+35,male,black/african american/negro,159
+35,male,american indian or alaska native,4
+35,male,chinese,94
+35,male,other asian or pacific islander,301
+35,male,"other race, nec",131
+35,male,two major races,46
+35,male,three or more major races,8
+35,female,white,678
+35,female,black/african american/negro,164
+35,female,american indian or alaska native,3
+35,female,chinese,115
+35,female,japanese,2
+35,female,other asian or pacific islander,392
+35,female,"other race, nec",168
+35,female,two major races,55
+35,female,three or more major races,6
+36,male,white,615
+36,male,black/african american/negro,131
+36,male,american indian or alaska native,7
+36,male,chinese,96
+36,male,japanese,4
+36,male,other asian or pacific islander,322
+36,male,"other race, nec",151
+36,male,two major races,52
+36,male,three or more major races,7
+36,female,white,770
+36,female,black/african american/negro,169
+36,female,american indian or alaska native,6
+36,female,chinese,131
+36,female,japanese,4
+36,female,other asian or pacific islander,433
+36,female,"other race, nec",169
+36,female,two major races,56
+36,female,three or more major races,4
+37,male,white,647
+37,male,black/african american/negro,140
+37,male,american indian or alaska native,8
+37,male,chinese,103
+37,male,japanese,1
+37,male,other asian or pacific islander,303
+37,male,"other race, nec",146
+37,male,two major races,55
+37,male,three or more major races,12
+37,female,white,785
+37,female,black/african american/negro,185
+37,female,american indian or alaska native,9
+37,female,chinese,122
+37,female,japanese,2
+37,female,other asian or pacific islander,480
+37,female,"other race, nec",174
+37,female,two major races,55
+37,female,three or more major races,8
+38,male,white,620
+38,male,black/african american/negro,129
+38,male,american indian or alaska native,6
+38,male,chinese,97
+38,male,japanese,1
+38,male,other asian or pacific islander,340
+38,male,"other race, nec",134
+38,male,two major races,54
+38,male,three or more major races,8
+38,female,white,744
+38,female,black/african american/negro,184
+38,female,american indian or alaska native,7
+38,female,chinese,128
+38,female,japanese,3
+38,female,other asian or pacific islander,489
+38,female,"other race, nec",178
+38,female,two major races,52
+38,female,three or more major races,9
+39,male,white,678
+39,male,black/african american/negro,176
+39,male,american indian or alaska native,6
+39,male,chinese,108
+39,male,japanese,4
+39,male,other asian or pacific islander,318
+39,male,"other race, nec",144
+39,male,two major races,61
+39,male,three or more major races,9
+39,female,white,799
+39,female,black/african american/negro,179
+39,female,american indian or alaska native,3
+39,female,chinese,143
+39,female,japanese,4
+39,female,other asian or pacific islander,474
+39,female,"other race, nec",176
+39,female,two major races,47
+39,female,three or more major races,10
+40,male,white,661
+40,male,black/african american/negro,159
+40,male,american indian or alaska native,9
+40,male,chinese,118
+40,male,japanese,3
+40,male,other asian or pacific islander,346
+40,male,"other race, nec",143
+40,male,two major races,52
+40,male,three or more major races,3
+40,female,white,813
+40,female,black/african american/negro,216
+40,female,american indian or alaska native,3
+40,female,chinese,119
+40,female,japanese,9
+40,female,other asian or pacific islander,494
+40,female,"other race, nec",181
+40,female,two major races,66
+40,female,three or more major races,7
+41,male,white,762
+41,male,black/african american/negro,183
+41,male,american indian or alaska native,12
+41,male,chinese,122
+41,male,japanese,5
+41,male,other asian or pacific islander,406
+41,male,"other race, nec",194
+41,male,two major races,59
+41,male,three or more major races,7
+41,female,white,898
+41,female,black/african american/negro,195
+41,female,american indian or alaska native,8
+41,female,chinese,145
+41,female,japanese,4
+41,female,other asian or pacific islander,571
+41,female,"other race, nec",211
+41,female,two major races,68
+41,female,three or more major races,6
+42,male,white,742
+42,male,black/african american/negro,168
+42,male,american indian or alaska native,3
+42,male,chinese,107
+42,male,japanese,3
+42,male,other asian or pacific islander,391
+42,male,"other race, nec",164
+42,male,two major races,37
+42,male,three or more major races,9
+42,female,white,943
+42,female,black/african american/negro,201
+42,female,american indian or alaska native,7
+42,female,chinese,155
+42,female,japanese,5
+42,female,other asian or pacific islander,563
+42,female,"other race, nec",200
+42,female,two major races,67
+42,female,three or more major races,13
+43,male,white,789
+43,male,black/african american/negro,152
+43,male,american indian or alaska native,8
+43,male,chinese,110
+43,male,japanese,3
+43,male,other asian or pacific islander,472
+43,male,"other race, nec",178
+43,male,two major races,55
+43,male,three or more major races,5
+43,female,white,977
+43,female,black/african american/negro,183
+43,female,american indian or alaska native,9
+43,female,chinese,182
+43,female,japanese,4
+43,female,other asian or pacific islander,627
+43,female,"other race, nec",198
+43,female,two major races,71
+43,female,three or more major races,15
+44,male,white,763
+44,male,black/african american/negro,193
+44,male,american indian or alaska native,4
+44,male,chinese,107
+44,male,japanese,5
+44,male,other asian or pacific islander,498
+44,male,"other race, nec",161
+44,male,two major races,49
+44,male,three or more major races,7
+44,female,white,943
+44,female,black/african american/negro,177
+44,female,american indian or alaska native,3
+44,female,chinese,174
+44,female,japanese,11
+44,female,other asian or pacific islander,670
+44,female,"other race, nec",224
+44,female,two major races,93
+44,female,three or more major races,11
+45,male,white,857
+45,male,black/african american/negro,174
+45,male,american indian or alaska native,8
+45,male,chinese,142
+45,male,japanese,3
+45,male,other asian or pacific islander,544
+45,male,"other race, nec",161
+45,male,two major races,71
+45,male,three or more major races,4
+45,female,white,970
+45,female,black/african american/negro,186
+45,female,american indian or alaska native,8
+45,female,chinese,184
+45,female,japanese,9
+45,female,other asian or pacific islander,680
+45,female,"other race, nec",186
+45,female,two major races,73
+45,female,three or more major races,12
+46,male,white,917
+46,male,black/african american/negro,179
+46,male,american indian or alaska native,7
+46,male,chinese,139
+46,male,japanese,7
+46,male,other asian or pacific islander,599
+46,male,"other race, nec",168
+46,male,two major races,63
+46,male,three or more major races,10
+46,female,white,1090
+46,female,black/african american/negro,242
+46,female,american indian or alaska native,12
+46,female,chinese,221
+46,female,japanese,7
+46,female,other asian or pacific islander,753
+46,female,"other race, nec",231
+46,female,two major races,77
+46,female,three or more major races,5
+47,male,white,914
+47,male,black/african american/negro,169
+47,male,american indian or alaska native,10
+47,male,chinese,129
+47,male,japanese,11
+47,male,other asian or pacific islander,621
+47,male,"other race, nec",212
+47,male,two major races,57
+47,male,three or more major races,6
+47,female,white,1074
+47,female,black/african american/negro,204
+47,female,american indian or alaska native,11
+47,female,chinese,227
+47,female,japanese,9
+47,female,other asian or pacific islander,725
+47,female,"other race, nec",243
+47,female,two major races,87
+47,female,three or more major races,11
+48,male,white,946
+48,male,black/african american/negro,134
+48,male,american indian or alaska native,8
+48,male,chinese,169
+48,male,japanese,8
+48,male,other asian or pacific islander,604
+48,male,"other race, nec",186
+48,male,two major races,58
+48,male,three or more major races,6
+48,female,white,1112
+48,female,black/african american/negro,220
+48,female,american indian or alaska native,10
+48,female,chinese,249
+48,female,japanese,13
+48,female,other asian or pacific islander,694
+48,female,"other race, nec",235
+48,female,two major races,60
+48,female,three or more major races,12
+49,male,white,1007
+49,male,black/african american/negro,157
+49,male,american indian or alaska native,3
+49,male,chinese,146
+49,male,japanese,7
+49,male,other asian or pacific islander,580
+49,male,"other race, nec",222
+49,male,two major races,62
+49,male,three or more major races,4
+49,female,white,1151
+49,female,black/african american/negro,211
+49,female,american indian or alaska native,12
+49,female,chinese,219
+49,female,japanese,12
+49,female,other asian or pacific islander,693
+49,female,"other race, nec",225
+49,female,two major races,60
+49,female,three or more major races,12
+50,male,white,1015
+50,male,black/african american/negro,186
+50,male,american indian or alaska native,9
+50,male,chinese,168
+50,male,japanese,7
+50,male,other asian or pacific islander,561
+50,male,"other race, nec",235
+50,male,two major races,60
+50,male,three or more major races,7
+50,female,white,1137
+50,female,black/african american/negro,204
+50,female,american indian or alaska native,2
+50,female,chinese,234
+50,female,japanese,17
+50,female,other asian or pacific islander,678
+50,female,"other race, nec",217
+50,female,two major races,85
+50,female,three or more major races,11
+51,male,white,1089
+51,male,black/african american/negro,201
+51,male,american indian or alaska native,11
+51,male,chinese,167
+51,male,japanese,10
+51,male,other asian or pacific islander,593
+51,male,"other race, nec",237
+51,male,two major races,66
+51,male,three or more major races,10
+51,female,white,1126
+51,female,black/african american/negro,271
+51,female,american indian or alaska native,7
+51,female,chinese,263
+51,female,japanese,11
+51,female,other asian or pacific islander,650
+51,female,"other race, nec",269
+51,female,two major races,85
+51,female,three or more major races,9
+52,male,white,1022
+52,male,black/african american/negro,213
+52,male,american indian or alaska native,9
+52,male,chinese,126
+52,male,japanese,5
+52,male,other asian or pacific islander,531
+52,male,"other race, nec",233
+52,male,two major races,61
+52,male,three or more major races,4
+52,female,white,1097
+52,female,black/african american/negro,197
+52,female,american indian or alaska native,9
+52,female,chinese,210
+52,female,japanese,9
+52,female,other asian or pacific islander,638
+52,female,"other race, nec",235
+52,female,two major races,65
+52,female,three or more major races,8
+53,male,white,1169
+53,male,black/african american/negro,218
+53,male,american indian or alaska native,7
+53,male,chinese,168
+53,male,japanese,10
+53,male,other asian or pacific islander,559
+53,male,"other race, nec",248
+53,male,two major races,44
+53,male,three or more major races,6
+53,female,white,1165
+53,female,black/african american/negro,251
+53,female,american indian or alaska native,13
+53,female,chinese,219
+53,female,japanese,9
+53,female,other asian or pacific islander,604
+53,female,"other race, nec",269
+53,female,two major races,57
+53,female,three or more major races,6
+54,male,white,1167
+54,male,black/african american/negro,206
+54,male,american indian or alaska native,7
+54,male,chinese,165
+54,male,japanese,13
+54,male,other asian or pacific islander,515
+54,male,"other race, nec",228
+54,male,two major races,56
+54,male,three or more major races,5
+54,female,white,1190
+54,female,black/african american/negro,227
+54,female,american indian or alaska native,7
+54,female,chinese,268
+54,female,japanese,14
+54,female,other asian or pacific islander,595
+54,female,"other race, nec",234
+54,female,two major races,83
+54,female,three or more major races,6
+55,male,white,1219
+55,male,black/african american/negro,188
+55,male,american indian or alaska native,11
+55,male,chinese,211
+55,male,japanese,7
+55,male,other asian or pacific islander,525
+55,male,"other race, nec",221
+55,male,two major races,54
+55,male,three or more major races,7
+55,female,white,1227
+55,female,black/african american/negro,241
+55,female,american indian or alaska native,9
+55,female,chinese,278
+55,female,japanese,7
+55,female,other asian or pacific islander,597
+55,female,"other race, nec",280
+55,female,two major races,71
+55,female,three or more major races,15
+56,male,white,1169
+56,male,black/african american/negro,187
+56,male,american indian or alaska native,17
+56,male,chinese,250
+56,male,japanese,8
+56,male,other asian or pacific islander,517
+56,male,"other race, nec",246
+56,male,two major races,66
+56,male,three or more major races,10
+56,female,white,1301
+56,female,black/african american/negro,218
+56,female,american indian or alaska native,14
+56,female,chinese,300
+56,female,japanese,10
+56,female,other asian or pacific islander,551
+56,female,"other race, nec",283
+56,female,two major races,62
+56,female,three or more major races,6
+57,male,white,1143
+57,male,black/african american/negro,200
+57,male,american indian or alaska native,10
+57,male,chinese,196
+57,male,japanese,4
+57,male,other asian or pacific islander,463
+57,male,"other race, nec",239
+57,male,two major races,65
+57,male,three or more major races,4
+57,female,white,1223
+57,female,black/african american/negro,210
+57,female,american indian or alaska native,9
+57,female,chinese,222
+57,female,japanese,13
+57,female,other asian or pacific islander,557
+57,female,"other race, nec",265
+57,female,two major races,78
+57,female,three or more major races,16
+58,male,white,1173
+58,male,black/african american/negro,200
+58,male,american indian or alaska native,11
+58,male,chinese,184
+58,male,japanese,7
+58,male,other asian or pacific islander,469
+58,male,"other race, nec",223
+58,male,two major races,60
+58,male,three or more major races,8
+58,female,white,1289
+58,female,black/african american/negro,213
+58,female,american indian or alaska native,10
+58,female,chinese,223
+58,female,japanese,18
+58,female,other asian or pacific islander,573
+58,female,"other race, nec",193
+58,female,two major races,63
+58,female,three or more major races,8
+59,male,white,1183
+59,male,black/african american/negro,182
+59,male,american indian or alaska native,13
+59,male,chinese,177
+59,male,japanese,6
+59,male,other asian or pacific islander,487
+59,male,"other race, nec",236
+59,male,two major races,66
+59,male,three or more major races,6
+59,female,white,1270
+59,female,black/african american/negro,246
+59,female,american indian or alaska native,10
+59,female,chinese,218
+59,female,japanese,15
+59,female,other asian or pacific islander,599
+59,female,"other race, nec",245
+59,female,two major races,81
+59,female,three or more major races,5
+60,male,white,1143
+60,male,black/african american/negro,153
+60,male,american indian or alaska native,15
+60,male,chinese,176
+60,male,japanese,15
+60,male,other asian or pacific islander,482
+60,male,"other race, nec",220
+60,male,two major races,56
+60,male,three or more major races,6
+60,female,white,1249
+60,female,black/african american/negro,232
+60,female,american indian or alaska native,5
+60,female,chinese,228
+60,female,japanese,17
+60,female,other asian or pacific islander,609
+60,female,"other race, nec",233
+60,female,two major races,61
+60,female,three or more major races,8
+61,male,white,1148
+61,male,black/african american/negro,185
+61,male,american indian or alaska native,8
+61,male,chinese,179
+61,male,japanese,9
+61,male,other asian or pacific islander,479
+61,male,"other race, nec",186
+61,male,two major races,53
+61,male,three or more major races,3
+61,female,white,1253
+61,female,black/african american/negro,237
+61,female,american indian or alaska native,10
+61,female,chinese,263
+61,female,japanese,11
+61,female,other asian or pacific islander,599
+61,female,"other race, nec",218
+61,female,two major races,66
+61,female,three or more major races,7
+62,male,white,1080
+62,male,black/african american/negro,173
+62,male,american indian or alaska native,3
+62,male,chinese,190
+62,male,japanese,8
+62,male,other asian or pacific islander,460
+62,male,"other race, nec",164
+62,male,two major races,64
+62,male,three or more major races,7
+62,female,white,1167
+62,female,black/african american/negro,219
+62,female,american indian or alaska native,7
+62,female,chinese,250
+62,female,japanese,18
+62,female,other asian or pacific islander,540
+62,female,"other race, nec",188
+62,female,two major races,57
+62,female,three or more major races,7
+63,male,white,1088
+63,male,black/african american/negro,173
+63,male,american indian or alaska native,7
+63,male,chinese,199
+63,male,japanese,12
+63,male,other asian or pacific islander,436
+63,male,"other race, nec",179
+63,male,two major races,59
+63,male,three or more major races,9
+63,female,white,1177
+63,female,black/african american/negro,191
+63,female,american indian or alaska native,7
+63,female,chinese,242
+63,female,japanese,16
+63,female,other asian or pacific islander,579
+63,female,"other race, nec",193
+63,female,two major races,60
+63,female,three or more major races,4
+64,male,white,1017
+64,male,black/african american/negro,159
+64,male,american indian or alaska native,5
+64,male,chinese,153
+64,male,japanese,12
+64,male,other asian or pacific islander,437
+64,male,"other race, nec",149
+64,male,two major races,41
+64,male,three or more major races,6
+64,female,white,1146
+64,female,black/african american/negro,196
+64,female,american indian or alaska native,12
+64,female,chinese,200
+64,female,japanese,10
+64,female,other asian or pacific islander,568
+64,female,"other race, nec",208
+64,female,two major races,47
+64,female,three or more major races,7
+65,male,white,960
+65,male,black/african american/negro,179
+65,male,american indian or alaska native,3
+65,male,chinese,144
+65,male,japanese,13
+65,male,other asian or pacific islander,423
+65,male,"other race, nec",158
+65,male,two major races,70
+65,male,three or more major races,3
+65,female,white,1068
+65,female,black/african american/negro,178
+65,female,american indian or alaska native,6
+65,female,chinese,223
+65,female,japanese,14
+65,female,other asian or pacific islander,531
+65,female,"other race, nec",157
+65,female,two major races,58
+65,female,three or more major races,3
+66,male,white,988
+66,male,black/african american/negro,189
+66,male,american indian or alaska native,10
+66,male,chinese,188
+66,male,japanese,15
+66,male,other asian or pacific islander,452
+66,male,"other race, nec",151
+66,male,two major races,38
+66,male,three or more major races,8
+66,female,white,1108
+66,female,black/african american/negro,170
+66,female,american indian or alaska native,6
+66,female,chinese,191
+66,female,japanese,16
+66,female,other asian or pacific islander,534
+66,female,"other race, nec",157
+66,female,two major races,53
+66,female,three or more major races,5
+67,male,white,885
+67,male,black/african american/negro,127
+67,male,american indian or alaska native,4
+67,male,chinese,173
+67,male,japanese,11
+67,male,other asian or pacific islander,377
+67,male,"other race, nec",134
+67,male,two major races,44
+67,male,three or more major races,5
+67,female,white,990
+67,female,black/african american/negro,174
+67,female,american indian or alaska native,3
+67,female,chinese,193
+67,female,japanese,14
+67,female,other asian or pacific islander,506
+67,female,"other race, nec",151
+67,female,two major races,63
+67,female,three or more major races,7
+68,male,white,890
+68,male,black/african american/negro,124
+68,male,american indian or alaska native,5
+68,male,chinese,145
+68,male,japanese,10
+68,male,other asian or pacific islander,360
+68,male,"other race, nec",136
+68,male,two major races,46
+68,male,three or more major races,6
+68,female,white,1028
+68,female,black/african american/negro,162
+68,female,american indian or alaska native,5
+68,female,chinese,171
+68,female,japanese,18
+68,female,other asian or pacific islander,457
+68,female,"other race, nec",150
+68,female,two major races,50
+68,female,three or more major races,7
+69,male,white,886
+69,male,black/african american/negro,148
+69,male,american indian or alaska native,2
+69,male,chinese,180
+69,male,japanese,11
+69,male,other asian or pacific islander,332
+69,male,"other race, nec",127
+69,male,two major races,47
+69,male,three or more major races,8
+69,female,white,954
+69,female,black/african american/negro,142
+69,female,american indian or alaska native,7
+69,female,chinese,187
+69,female,japanese,21
+69,female,other asian or pacific islander,484
+69,female,"other race, nec",135
+69,female,two major races,37
+69,female,three or more major races,7
+70,male,white,805
+70,male,black/african american/negro,102
+70,male,american indian or alaska native,5
+70,male,chinese,135
+70,male,japanese,15
+70,male,other asian or pacific islander,368
+70,male,"other race, nec",86
+70,male,two major races,34
+70,male,three or more major races,3
+70,female,white,956
+70,female,black/african american/negro,126
+70,female,american indian or alaska native,7
+70,female,chinese,187
+70,female,japanese,27
+70,female,other asian or pacific islander,496
+70,female,"other race, nec",90
+70,female,two major races,40
+70,female,three or more major races,4
+71,male,white,863
+71,male,black/african american/negro,116
+71,male,american indian or alaska native,8
+71,male,chinese,143
+71,male,japanese,13
+71,male,other asian or pacific islander,368
+71,male,"other race, nec",102
+71,male,two major races,33
+71,male,three or more major races,3
+71,female,white,993
+71,female,black/african american/negro,140
+71,female,american indian or alaska native,4
+71,female,chinese,161
+71,female,japanese,16
+71,female,other asian or pacific islander,472
+71,female,"other race, nec",128
+71,female,two major races,47
+71,female,three or more major races,5
+72,male,white,835
+72,male,black/african american/negro,107
+72,male,american indian or alaska native,2
+72,male,chinese,114
+72,male,japanese,5
+72,male,other asian or pacific islander,340
+72,male,"other race, nec",87
+72,male,two major races,34
+72,male,three or more major races,3
+72,female,white,960
+72,female,black/african american/negro,116
+72,female,american indian or alaska native,7
+72,female,chinese,131
+72,female,japanese,18
+72,female,other asian or pacific islander,446
+72,female,"other race, nec",122
+72,female,two major races,45
+72,female,three or more major races,8
+73,male,white,739
+73,male,black/african american/negro,84
+73,male,american indian or alaska native,4
+73,male,chinese,76
+73,male,japanese,6
+73,male,other asian or pacific islander,292
+73,male,"other race, nec",93
+73,male,two major races,27
+73,male,three or more major races,2
+73,female,white,897
+73,female,black/african american/negro,119
+73,female,american indian or alaska native,3
+73,female,chinese,123
+73,female,japanese,14
+73,female,other asian or pacific islander,354
+73,female,"other race, nec",102
+73,female,two major races,29
+73,female,three or more major races,4
+74,male,white,635
+74,male,black/african american/negro,81
+74,male,american indian or alaska native,5
+74,male,chinese,66
+74,male,japanese,5
+74,male,other asian or pacific islander,282
+74,male,"other race, nec",67
+74,male,two major races,18
+74,male,three or more major races,3
+74,female,white,811
+74,female,black/african american/negro,101
+74,female,american indian or alaska native,4
+74,female,chinese,99
+74,female,japanese,19
+74,female,other asian or pacific islander,344
+74,female,"other race, nec",90
+74,female,two major races,32
+74,female,three or more major races,1
+75,male,white,602
+75,male,black/african american/negro,59
+75,male,american indian or alaska native,6
+75,male,chinese,87
+75,male,japanese,7
+75,male,other asian or pacific islander,266
+75,male,"other race, nec",66
+75,male,two major races,24
+75,male,three or more major races,2
+75,female,white,811
+75,female,black/african american/negro,96
+75,female,american indian or alaska native,5
+75,female,chinese,88
+75,female,japanese,18
+75,female,other asian or pacific islander,300
+75,female,"other race, nec",78
+75,female,two major races,24
+75,female,three or more major races,5
+76,male,white,550
+76,male,black/african american/negro,61
+76,male,chinese,59
+76,male,japanese,8
+76,male,other asian or pacific islander,212
+76,male,"other race, nec",50
+76,male,two major races,19
+76,male,three or more major races,3
+76,female,white,730
+76,female,black/african american/negro,80
+76,female,american indian or alaska native,2
+76,female,chinese,80
+76,female,japanese,13
+76,female,other asian or pacific islander,277
+76,female,"other race, nec",83
+76,female,two major races,29
+76,female,three or more major races,2
+77,male,white,540
+77,male,black/african american/negro,70
+77,male,chinese,71
+77,male,japanese,2
+77,male,other asian or pacific islander,240
+77,male,"other race, nec",54
+77,male,two major races,21
+77,male,three or more major races,1
+77,female,white,671
+77,female,black/african american/negro,71
+77,female,american indian or alaska native,3
+77,female,chinese,65
+77,female,japanese,17
+77,female,other asian or pacific islander,239
+77,female,"other race, nec",58
+77,female,two major races,20
+77,female,three or more major races,3
+78,male,white,508
+78,male,black/african american/negro,58
+78,male,american indian or alaska native,1
+78,male,chinese,57
+78,male,japanese,5
+78,male,other asian or pacific islander,186
+78,male,"other race, nec",38
+78,male,two major races,16
+78,male,three or more major races,2
+78,female,white,745
+78,female,black/african american/negro,85
+78,female,american indian or alaska native,3
+78,female,chinese,73
+78,female,japanese,17
+78,female,other asian or pacific islander,237
+78,female,"other race, nec",71
+78,female,two major races,23
+78,female,three or more major races,3
+79,male,white,483
+79,male,black/african american/negro,46
+79,male,american indian or alaska native,1
+79,male,chinese,70
+79,male,japanese,7
+79,male,other asian or pacific islander,196
+79,male,"other race, nec",41
+79,male,two major races,16
+79,male,three or more major races,2
+79,female,white,703
+79,female,black/african american/negro,74
+79,female,american indian or alaska native,2
+79,female,chinese,71
+79,female,japanese,13
+79,female,other asian or pacific islander,197
+79,female,"other race, nec",65
+79,female,two major races,16
+79,female,three or more major races,3
+80,male,white,446
+80,male,black/african american/negro,29
+80,male,american indian or alaska native,2
+80,male,chinese,57
+80,male,japanese,7
+80,male,other asian or pacific islander,156
+80,male,"other race, nec",38
+80,male,two major races,19
+80,male,three or more major races,4
+80,female,white,627
+80,female,black/african american/negro,59
+80,female,american indian or alaska native,4
+80,female,chinese,74
+80,female,japanese,16
+80,female,other asian or pacific islander,204
+80,female,"other race, nec",51
+80,female,two major races,18
+80,female,three or more major races,1
+81,male,white,435
+81,male,black/african american/negro,41
+81,male,american indian or alaska native,6
+81,male,chinese,62
+81,male,japanese,3
+81,male,other asian or pacific islander,135
+81,male,"other race, nec",36
+81,male,two major races,21
+81,male,three or more major races,3
+81,female,white,645
+81,female,black/african american/negro,48
+81,female,american indian or alaska native,4
+81,female,chinese,64
+81,female,japanese,16
+81,female,other asian or pacific islander,184
+81,female,"other race, nec",63
+81,female,two major races,20
+81,female,three or more major races,1
+82,male,white,407
+82,male,black/african american/negro,28
+82,male,american indian or alaska native,2
+82,male,chinese,61
+82,male,japanese,1
+82,male,other asian or pacific islander,114
+82,male,"other race, nec",25
+82,male,two major races,10
+82,male,three or more major races,4
+82,female,white,593
+82,female,black/african american/negro,56
+82,female,american indian or alaska native,2
+82,female,chinese,48
+82,female,japanese,11
+82,female,other asian or pacific islander,132
+82,female,"other race, nec",49
+82,female,two major races,9
+82,female,three or more major races,2
+83,male,white,397
+83,male,black/african american/negro,49
+83,male,american indian or alaska native,1
+83,male,chinese,51
+83,male,japanese,3
+83,male,other asian or pacific islander,116
+83,male,"other race, nec",33
+83,male,two major races,10
+83,male,three or more major races,1
+83,female,white,587
+83,female,black/african american/negro,53
+83,female,american indian or alaska native,1
+83,female,chinese,66
+83,female,japanese,28
+83,female,other asian or pacific islander,133
+83,female,"other race, nec",44
+83,female,two major races,8
+83,female,three or more major races,4
+84,male,white,325
+84,male,black/african american/negro,30
+84,male,american indian or alaska native,1
+84,male,chinese,37
+84,male,japanese,2
+84,male,other asian or pacific islander,86
+84,male,"other race, nec",36
+84,male,two major races,9
+84,female,white,509
+84,female,black/african american/negro,50
+84,female,american indian or alaska native,1
+84,female,chinese,57
+84,female,japanese,21
+84,female,other asian or pacific islander,102
+84,female,"other race, nec",35
+84,female,two major races,14
+84,female,three or more major races,2
+85,male,white,299
+85,male,black/african american/negro,33
+85,male,chinese,45
+85,male,japanese,1
+85,male,other asian or pacific islander,71
+85,male,"other race, nec",21
+85,male,two major races,4
+85,female,white,457
+85,female,black/african american/negro,43
+85,female,american indian or alaska native,3
+85,female,chinese,40
+85,female,japanese,30
+85,female,other asian or pacific islander,86
+85,female,"other race, nec",33
+85,female,two major races,12
+85,female,three or more major races,1
+86,male,white,265
+86,male,black/african american/negro,26
+86,male,chinese,50
+86,male,japanese,2
+86,male,other asian or pacific islander,68
+86,male,"other race, nec",17
+86,male,two major races,4
+86,male,three or more major races,1
+86,female,white,436
+86,female,black/african american/negro,42
+86,female,american indian or alaska native,2
+86,female,chinese,56
+86,female,japanese,27
+86,female,other asian or pacific islander,97
+86,female,"other race, nec",44
+86,female,two major races,7
+86,female,three or more major races,1
+87,male,white,257
+87,male,black/african american/negro,22
+87,male,chinese,24
+87,male,japanese,2
+87,male,other asian or pacific islander,63
+87,male,"other race, nec",24
+87,male,two major races,10
+87,male,three or more major races,1
+87,female,white,372
+87,female,black/african american/negro,30
+87,female,american indian or alaska native,3
+87,female,chinese,32
+87,female,japanese,22
+87,female,other asian or pacific islander,60
+87,female,"other race, nec",29
+87,female,two major races,7
+88,male,white,206
+88,male,black/african american/negro,16
+88,male,chinese,27
+88,male,japanese,1
+88,male,other asian or pacific islander,49
+88,male,"other race, nec",14
+88,male,two major races,10
+88,female,white,345
+88,female,black/african american/negro,24
+88,female,american indian or alaska native,1
+88,female,chinese,31
+88,female,japanese,17
+88,female,other asian or pacific islander,72
+88,female,"other race, nec",30
+88,female,two major races,3
+88,female,three or more major races,3
+89,male,white,196
+89,male,black/african american/negro,17
+89,male,chinese,15
+89,male,japanese,2
+89,male,other asian or pacific islander,35
+89,male,"other race, nec",13
+89,male,two major races,6
+89,male,three or more major races,1
+89,female,white,327
+89,female,black/african american/negro,20
+89,female,american indian or alaska native,1
+89,female,chinese,28
+89,female,japanese,24
+89,female,other asian or pacific islander,61
+89,female,"other race, nec",16
+89,female,two major races,5
+89,female,three or more major races,1
+90,male,white,129
+90,male,black/african american/negro,10
+90,male,american indian or alaska native,1
+90,male,chinese,14
+90,male,japanese,2
+90,male,other asian or pacific islander,25
+90,male,"other race, nec",11
+90,male,two major races,6
+90,male,three or more major races,1
+90,female,white,279
+90,female,black/african american/negro,25
+90,female,chinese,27
+90,female,japanese,13
+90,female,other asian or pacific islander,61
+90,female,"other race, nec",29
+90,female,two major races,5
+90,female,three or more major races,1
+92,male,white,59
+92,male,black/african american/negro,5
+92,male,chinese,7
+92,male,other asian or pacific islander,5
+92,male,"other race, nec",2
+92,male,two major races,2
+92,female,white,133
+92,female,black/african american/negro,9
+92,female,chinese,7
+92,female,japanese,5
+92,female,other asian or pacific islander,6
+93,male,white,43
+93,male,black/african american/negro,2
+93,male,chinese,4
+93,male,other asian or pacific islander,8
+93,male,"other race, nec",4
+93,male,two major races,1
+93,male,three or more major races,1
+93,female,white,123
+93,female,black/african american/negro,3
+93,female,chinese,5
+93,female,japanese,6
+93,female,other asian or pacific islander,10
+93,female,"other race, nec",9
+94,male,white,34
+94,male,black/african american/negro,1
+94,male,chinese,2
+94,male,other asian or pacific islander,2
+94,male,"other race, nec",1
+94,male,two major races,1
+94,female,white,79
+94,female,black/african american/negro,3
+94,female,chinese,5
+94,female,japanese,4
+94,female,other asian or pacific islander,5
+94,female,"other race, nec",4
+94,female,two major races,4
+94,female,three or more major races,1
+95,male,white,196
+95,male,black/african american/negro,6
+95,male,american indian or alaska native,1
+95,male,chinese,57
+95,male,japanese,3
+95,male,other asian or pacific islander,55
+95,male,"other race, nec",11
+95,male,two major races,9
+95,male,three or more major races,1
+95,female,white,451
+95,female,black/african american/negro,21
+95,female,chinese,101
+95,female,japanese,28
+95,female,other asian or pacific islander,110
+95,female,"other race, nec",37
+95,female,two major races,10
+96,male,white,162
+96,male,black/african american/negro,14
+96,male,chinese,7
+96,male,other asian or pacific islander,3
+96,male,"other race, nec",1
+96,female,white,337
+96,female,black/african american/negro,35
+96,female,chinese,21
+96,female,japanese,2
+96,female,other asian or pacific islander,13
+96,female,"other race, nec",12
+96,female,two major races,6
+96,female,three or more major races,1
+97,male,white,3
+97,male,japanese,1
+97,male,other asian or pacific islander,9
+97,female,white,26
+97,female,black/african american/negro,1
+97,female,chinese,2
+97,female,japanese,3
+97,female,other asian or pacific islander,4
